@@ -1,8 +1,7 @@
-# Template for GLFW/IMGUI/OpenGL3
+# Blackhole with OpenGL + Vanilla Math
+Recreation of the paper (https://arxiv.org/abs/1502.03808) for simulating blackholes used in the Interstellar movie. 
 
 ![Example](./example.png)
-> For ImGui, using glfw + opengl3 as platform and backend. 
-This may not work on all platforms such as Apple M1 so you'll need to change it, but its only a few lines of code.
 
 ```
 mkdir build
