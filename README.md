@@ -1,5 +1,5 @@
 # Blackhole with OpenGL + Vanilla Math
-Recreation of the paper (https://arxiv.org/abs/1502.03808) for simulating blackholes used in the Interstellar movie. 
+Recreation of the Kip Thorne 2015 paper (https://arxiv.org/abs/1502.03808) for simulating blackholes used in the Interstellar movie. 
 
 ![Example](./example.png)
 
